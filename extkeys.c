@@ -504,4 +504,3 @@ titlekey_entry_t *settings_get_titlekey(hactool_settings_t *settings, const unsi
 
     return NULL;
 }
-
